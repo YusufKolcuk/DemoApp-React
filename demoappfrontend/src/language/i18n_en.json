@@ -1,0 +1,16 @@
+{
+
+    "Login"             :"Login",
+    "Username"          :"Username",
+    "Password"          :"Password",
+    "Sign In"           :"Sign In",
+    "SignUp"            :"SignUp",
+    "Logout"            :"Logout",
+    "Password mismatch" :"Password mismatch",
+    "DisplayName"       :"DisplayName",
+    "Email"             :"Email",
+    "Password Repeat"   :"Password Repeat",
+    "Name"              :"Name",
+    "Temp"              :"Temp"
+
+}

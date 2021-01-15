@@ -1,0 +1,16 @@
+{
+
+    "Login"             :"Giriş",
+    "Username"          :"Kullanıcı Adı",
+    "Password"          :"Parola",
+    "Sign In"           :"Giriş",
+    "SignUp"            :"Kayıt",
+    "Logout"            :"Çıkış",
+    "Password mismatch" :"Parola Eşleşmedi",
+    "DisplayName"       :"Görünen İsim",
+    "Email"             :"Email",
+    "Password Repeat"   :"Parola Tekrarı",
+    "Name"              :"isim",
+    "Temp"              :"Sıcaklık"
+
+}

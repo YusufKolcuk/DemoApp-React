@@ -1,0 +1,16 @@
+{
+
+    "Login"             :"Loginseite",
+    "Username"          :"Nutzername",
+    "Password"          :"Passwort",
+    "Sign In"           :"Einloggen",
+    "SignUp"            :"Anmelden",
+    "Logout"            :"Ausloggen",
+    "Password mismatch" :"Die Passwörter stimmen nicht überein",
+    "DisplayName"       :"Anzeigename",
+    "Email"             :"Email",
+    "Password Repeat"   :"Passwort wiederholen",
+    "Name"              :"Name",
+    "Temp"              :"Temp"
+
+}
